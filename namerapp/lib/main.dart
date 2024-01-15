@@ -122,6 +122,5 @@ class BigCard extends StatelessWidget {
           semanticsLabel: "${pair.first} ${pair.second}",) //Ideal for Accessibility by screen readers
       ),
     );
-
   }
 }
